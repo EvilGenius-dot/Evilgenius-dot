@@ -1,5 +1,11 @@
 <div id="top"></div>
 
+<style>
+.table-with-left-margin {
+  margin-left: 27px;
+}
+</style>
+
 <div align="center">
 
 <img src="./image/ktlogo.gif" alt="Logo" width="170">
@@ -27,7 +33,7 @@
    <tr>
    <td>
 
-## 🏢 Linux安装
+### 🏢 **Linux安装**
 
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
@@ -46,7 +52,7 @@
    <tr>
    <td>
 
-## 🏢 Windows安装
+### 🏢 **Windows安装**
 
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
@@ -63,11 +69,12 @@
    <tr>
    <td>
   
-## 🏢 支持的算法及币种
+### 🏢 **支持的算法及币种**
 
-对于支持的算法，相应的货币将随时热更新
+<p>&emsp;&emsp;对于支持的算法，相应的货币将随时热更新</p>
 
 <div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./image/icon-btc.png" alt="Logo" width="25">
 <img src="./image/icon-bch.png" alt="Logo" width="25">
 <img src="./image/icon-etc.png" alt="Logo" width="25">
@@ -91,6 +98,7 @@
 <img src="./image/icon-dash.png" alt="Logo" width="25">
 </div>
 
+<div class="table-with-left-margin">
 
 | arithmetic      | Support     | Relevant currency |
 | --------------- | ------------| ------------------|
@@ -107,6 +115,7 @@
 | LBRY            | ✅          | LBC
 | X11             | ✅          | DASH
 
+</div>
 
 
    </td>
