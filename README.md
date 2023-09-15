@@ -22,13 +22,17 @@
 
 # RustMinerSystem
 
+![](https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/main/assets/github-contribution-grid-snake.svg)
+
+
 <table>
    <tr>
    <td>
 
 ## 🏢 安装
 
-   选择适合您的操作系统
+   <p>选择适合您的操作系统</p>
+
 
    <details open>
    <summary>Linux</summary>
