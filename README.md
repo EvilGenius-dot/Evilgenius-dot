@@ -27,13 +27,13 @@
    <tr>
    <td>
 
-## 🏢 安装
+### 🏢 安装
 
-   <p>选择适合您的操作系统</p>
+   <p>&emsp;&emsp;选择适合您的操作系统</p>
 
-   ## Linux
+   <p>&emsp;&emsp;Linux</p>
 
-   运行以下shell指令以运行工具包
+   <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
    
    ```sh
     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
