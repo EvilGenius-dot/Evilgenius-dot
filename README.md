@@ -28,8 +28,6 @@
 
 ## 🏢 安装
 
-1. **Install**
-
    选择适合您的操作系统
 
    <details open>
@@ -41,8 +39,9 @@
    >  bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
    > ```
    >
-   > 成功运行后，您将看到以下菜单。
+   > 成功运行后，您将看到以下菜单, 根据提示安装即可。
    >
+   > <img src="./image/install.gif">
 
    </details>
 
