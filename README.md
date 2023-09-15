@@ -6,7 +6,7 @@
 
 <h2>一款矿池级别的运维工具👍 </h2>
 
-<img src="./image/logo.png" alt="Logo" width="170">
+<img src="./image/ktlogo.gif" alt="Logo" width="170">
 
 [![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
 [![Downloads][downloads-badge]][releases]
