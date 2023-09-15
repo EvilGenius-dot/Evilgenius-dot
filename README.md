@@ -5,7 +5,6 @@
 <img src="./image/ktlogo.gif" alt="Logo" width="170">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F76322&center=true&vCenter=true&width=435&lines=RustMinerSystem)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%E5%9F%BA%E4%BA%8ERUST%E6%89%93%E9%80%A0%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%9A%84MinerProxy)](https://git.io/typing-svg)
 
 <img src="./image/1.png" alt="Logo">
@@ -92,24 +91,21 @@
 <img src="./image/icon-dash.png" alt="Logo" width="25">
 </div>
 
-<div class="table-with-left-margin">
-
-| arithmetic      | Support     | Relevant currency |
-| --------------- | ------------| ------------------|
-| SHA256          | ✅          | BTC、BCH        
-| ETHASH          | ✅          | ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL
-| SCRYPT          | ✅          | LTC
-| KHEAVYHASH      | ✅          | KASPA
-| BLAKE2S         | ✅          | KDA
-| BLAKE2B         | ✅          | SC、HNS
-| OCTOPUS         | ✅          | CFX
-| DYNEXSOLVE      | ✅          | DNX
-| EAGLESONG       | ✅          | CKB
-| EQUIHASH        | ✅          | ZEN、ZEC
-| LBRY            | ✅          | LBC
-| X11             | ✅          | DASH
-
-</div>
+```text
+  算法                支持的币种
+  SHA256              BTC、BCH        
+  ETHASH              ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL
+  SCRYPT              LTC
+  KHEAVYHASH          KASPA
+  BLAKE2S             KDA
+  BLAKE2B             SC、HNS
+  OCTOPUS             CFX
+  DYNEXSOLVE          DNX
+  EAGLESONG           CKB
+  EQUIHASH            ZEN、ZEC
+  LBRY                LBC
+  X11                 DASH
+```
 
 
    </td>
@@ -531,10 +527,6 @@ logo及简介
 - 矿机的后台配置里, 只保留一条地址配置信息, 删除2和3的配置
 
 <span id="diaoxian"></span>
-
-# 一些矿池会统计矿机掉线情况, 如何使矿池内设备不出现掉线记录？
-
-例如antpool或poolin, 会统计每台设备的掉线情况, 如果不想在矿池内看到这些信息, 请编辑端口, 找到算力补偿, 选择第二个模式即可
 
 # 端口导入、导出
 
