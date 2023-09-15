@@ -27,7 +27,7 @@
    <tr>
    <td>
 
-### 🏢 Linux安装
+## 🏢 Linux安装
 
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
@@ -46,7 +46,7 @@
    <tr>
    <td>
 
-### 🏢 Windows安装
+## 🏢 Windows安装
 
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
