@@ -60,7 +60,7 @@
 
 对于支持的算法，相应的货币将随时热更新
 
-<figure class="half">
+<div>
 <img src="./image/icon-btc.png" alt="Logo" width="25">
 <img src="./image/icon-bch.png" alt="Logo" width="25">
 <img src="./image/icon-etc.png" alt="Logo" width="25">
@@ -82,7 +82,7 @@
 <img src="./image/icon-zec.png" alt="Logo" width="25">
 <img src="./image/icon-lbc.png" alt="Logo" width="25">
 <img src="./image/icon-dash.png" alt="Logo" width="25">
-</figure>
+</div>
 
 
 | arithmetic      | Support     | Relevant currency |
