@@ -14,6 +14,8 @@
 
 <a href="https://github.com/EvilGenius-dot/RustMinerSystem">English</a>｜<a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n">简体中文</a>
 
+<img src="/image/1.png" alt="Logo" width="670">
+
 强大且经验丰富的监控和记录系统可以立即解决矿场异常情况。
 
 在矿池级别上统计哈希率，并可以一目了然地查看任何货币的哈希率。
@@ -35,10 +37,6 @@
 基于Rust的开发，高效的语言带来无与伦比的性能。
 
 高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-RustMinerSystem
-
-（部分预览）
-
-<img src="/image/1.png" alt="Logo" width="670">
 
 </div>
 
@@ -91,7 +89,7 @@ RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
 
 
 [rustminersystem.io]: https://github.com/EvilGenius-dot/RustMinerSystem
-[rustminersystem.io-badge]: https://img.shields.io/badge/RustMinerSystem-v2.0.0-green?logo=rust
+[rustminersystem.io-badge]: https://img.shields.io/badge/RustMinerSystem-v3.5.0-green?logo=rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/EvilGenius-dot/RustMinerSystem/releases
 [stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
