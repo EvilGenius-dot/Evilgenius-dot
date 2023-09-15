@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F76322&center=true&vCenter=true&width=435&lines=RustMinerSystem)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%E5%9F%BA%E4%BA%8ERUST%E6%89%93%E9%80%A0%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84MinerProxy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%E5%9F%BA%E4%BA%8ERUST%E6%89%93%E9%80%A0%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%9A%84MinerProxy)](https://git.io/typing-svg)
 
 <img src="./image/ktlogo.gif" alt="Logo" width="170">
 
@@ -14,13 +14,11 @@
 
 <a href="https://github.com/EvilGenius-dot/RustMinerSystem">English</a>｜<a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n">简体中文</a>
 
-</div>
-
-# 描述
-
-
-
 <img src="./image/1.png" alt="Logo" width="670">
+
+<br>
+
+</div>
 
 # 安装 
 
@@ -62,6 +60,27 @@
 
 对于支持的算法，相应的货币将随时热更新
 
+<img src="./image/icon-btc.png" alt="Logo" width="25">
+<img src="./image/icon-bch.png" alt="Logo" width="25">
+<img src="./image/icon-etc.png" alt="Logo" width="25">
+<img src="./image/icon-ethw.png" alt="Logo" width="25">
+<img src="./image/icon-ethf.png" alt="Logo" width="25">
+<img src="./image/icon-octa.png" alt="Logo" width="25">
+<img src="./image/icon-etc+zil.png" alt="Logo" height="25">
+<img src="./image/icon-ethw+zil.png" alt="Logo" height="25">
+<img src="./image/icon-ethf+zil.png" alt="Logo" height="25">
+<img src="./image/icon-ltc.png" alt="Logo" width="25">
+<img src="./image/icon-kaspa.png" alt="Logo" width="25">
+<img src="./image/icon-kda.png" alt="Logo" width="25">
+<img src="./image/icon-sc.png" alt="Logo" width="25">
+<img src="./image/icon-hns.png" alt="Logo" width="25">
+<img src="./image/icon-cfx.png" alt="Logo" width="25">
+<img src="./image/icon-dnx.png" alt="Logo" width="25">
+<img src="./image/icon-ckb.png" alt="Logo" width="25">
+<img src="./image/icon-zen.png" alt="Logo" width="25">
+<img src="./image/icon-zec.png" alt="Logo" width="25">
+<img src="./image/icon-lbc.png" alt="Logo" width="25">
+<img src="./image/icon-dash.png" alt="Logo" width="25">
 
 | arithmetic      | Support     | Relevant currency |
 | --------------- | ------------| ------------------|
