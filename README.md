@@ -20,22 +20,61 @@
 
 </div>
 
+# RustMinerSystem
+
 <table>
-<tr><td>
+   <tr>
+   <td>
 
-### 🤺 11
-1
+## 🏢 安装
 
-</td></tr>
+1. **Install**
 
-<tr>
-<td>
+   选择适合您的操作系统
+
+   <details open>
+   <summary>Linux</summary>
+
+   > 运行以下shell指令以运行工具包
+   >
+   > ```sh
+   >  bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+   > ```
+   >
+   > 成功运行后，您将看到以下菜单。
+   >
+
+   </details>
+
+   <details open>
+   <summary>Windows</summary>
+
+   > 请直接从此项目的Windows目录下载指定的版本：
+   >
+   > ```sh
+   > https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+   > ```
+   >
+
+   </details>
+
+   Windows版本直接双击启动即可。
+
+   Linux运行脚本后，根据提示安装即可, 默认后台账号密码为 qzpm19kkx xloqslz913
+
+
+
+   </td>
+   </tr>
+   <tr>
+   <td>
   
-### 🏢 22
+## 🏢 22
 
 22
 
-</td>
+   </td>
+   </tr>
 </table>
 
 # 安装 
