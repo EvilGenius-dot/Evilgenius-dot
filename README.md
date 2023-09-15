@@ -27,9 +27,7 @@
    <tr>
    <td>
 
-## 🏢 安装
-
-📊 **Linux** 
+### 🏢 Linux安装
 
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
@@ -41,7 +39,14 @@
    
    <img src="./image/install.gif">
 
-📊 **Windows** 
+   <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
+
+   </td>
+   </tr>
+   <tr>
+   <td>
+
+### 🏢 Windows安装
 
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
@@ -53,10 +58,8 @@
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
-
-
    </td>
-   </tr>
+   </tr>   
    <tr>
    <td>
   
