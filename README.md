@@ -6,7 +6,7 @@
 
 <h2>一款矿池级别的运维工具👍 </h2>
 
-<img src="/image/logo.png" alt="Logo" width="170">
+<img src="./image/logo.png" alt="Logo" width="170">
 
 [![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
 [![Downloads][downloads-badge]][releases]
@@ -18,65 +18,9 @@
 
 # 描述
 
-<img src="/image/1.png" alt="Logo" width="670">
-
 打造世界上第一个基于RUST最强大的原创矿场运维管理、抽水工具, 合理提升矿场利润。
 
-# 免费定制专属版本
-
-[点击查看免费定制专属版本说明](#dingzhi)
-
-# 加入聊天组
-
-Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
-
-Telegram：<a href="https://t.me/+Zrz9d5gUR7YzOTVl">https://t.me/+Zrz9d5gUR7YzOTVl</a>
-
-<!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
-
-# 特别感谢
-
-<img src="/image/icon-logo-blue.png" alt="Logo" width="100">
-
-<img src="/image/poolin.svg" alt="Logo" width="100">
-
-<p>感谢以上矿池在一定范围内提供了技术支持😊</p>
-
-# 支持的算法
-
-对于支持的算法，相应的货币将随时热更新，客户端0将承担负担
-
-
-| arithmetic      | Support     | Relevant currency |
-| --------------- | ------------| ------------------|
-| SHA256          | ✅          | BTC、BCH        
-| ETHASH          | ✅          | ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL
-| SCRYPT          | ✅          | LTC
-| KHEAVYHASH      | ✅          | KASPA
-| BLAKE2S         | ✅          | KDA
-| BLAKE2B         | ✅          | SC、HNS
-| OCTOPUS         | ✅          | CFX
-| DYNEXSOLVE      | ✅          | DNX
-| EAGLESONG       | ✅          | CKB
-| EQUIHASH        | ✅          | ZEN、ZEC
-| LBRY            | ✅          | LBC
-| X11             | ✅          | DASH
-
-
-# 服务协议
-
-RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
-
-
-
-
-[rustminersystem.io]: https://github.com/EvilGenius-dot/RustMinerSystem
-[rustminersystem.io-badge]: https://img.shields.io/badge/RustMinerSystem-v3.5.0-green?logo=rust
-[downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/EvilGenius-dot/RustMinerSystem/releases
-[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
-[stars-shield]: https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg?style=flat
-[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
+<img src="./image/1.png" alt="Logo" width="670">
 
 # 安装 
 
@@ -112,41 +56,64 @@ RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
 
    Windows版本直接双击启动即可。
 
-   Linux运行脚本后，输入1或2选择安装菜单语言, 随后弹出如下界面
+   Linux运行脚本后，根据提示安装即可, 默认后台账号密码为 qzpm19kkx xloqslz913
 
-   ---------- 中文菜单 ----------
-   1. 安装
-   2. 更新
-   3. 启动软件
-   4. 停止软件
-   5. 重启软件
-   6. 修改启动端口
-   7. 解除Linux系统连接数限制（需要重启服务器生效）
-   8. 设置开机启动
-   9. 关闭开机启动
-   10. 查看程序运行状态
-   11. 查看错误日志
-   12. 清理日志文件
-   13. 查看当前WEB访问端口
-   14. 卸载
-   15. 重置认账号密码
-   16. 安装指定版本
-   [1-16]：
-   
-   <br>
+# 支持的算法
 
-   输入1安装即可
+对于支持的算法，相应的货币将随时热更新，客户端0将承担负担
 
-   安装完成后会输出以下提示
 
-   |----------------------------------------------------------------|<br>
-      程序启动成功, WEB访问端口4360, 默认账号 qzpm19kkx 默认密码 xloqslz913<br>
-      如果您是默认密码及默认端口, 请及时在网页设置中修改账号密码及web访问端口。<br>
-   |----------------------------------------------------------------|
+| arithmetic      | Support     | Relevant currency |
+| --------------- | ------------| ------------------|
+| SHA256          | ✅          | BTC、BCH        
+| ETHASH          | ✅          | ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL
+| SCRYPT          | ✅          | LTC
+| KHEAVYHASH      | ✅          | KASPA
+| BLAKE2S         | ✅          | KDA
+| BLAKE2B         | ✅          | SC、HNS
+| OCTOPUS         | ✅          | CFX
+| DYNEXSOLVE      | ✅          | DNX
+| EAGLESONG       | ✅          | CKB
+| EQUIHASH        | ✅          | ZEN、ZEC
+| LBRY            | ✅          | LBC
+| X11             | ✅          | DASH
 
-   <br>
 
-   看到以上提示代表安装已成功, 在浏览器内输入服务器IP:端口号, 即可访问后台。
+# 免费定制专属版本
+
+[点击查看免费定制专属版本说明](#dingzhi)
+
+# 加入聊天组
+
+Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
+
+Telegram：<a href="https://t.me/+Zrz9d5gUR7YzOTVl">https://t.me/+Zrz9d5gUR7YzOTVl</a>
+
+<!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
+
+# 特别感谢
+
+<img src="/image/icon-logo-blue.png" alt="Logo" width="100">
+
+<img src="/image/poolin.svg" alt="Logo" width="100">
+
+<p>感谢以上矿池在一定范围内提供了技术支持😊</p>
+
+
+# 服务协议
+
+RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
+
+
+
+
+[rustminersystem.io]: https://github.com/EvilGenius-dot/RustMinerSystem
+[rustminersystem.io-badge]: https://img.shields.io/badge/RustMinerSystem-v3.5.0-green?logo=rust
+[downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
+[releases]: https://github.com/EvilGenius-dot/RustMinerSystem/releases
+[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
+[stars-shield]: https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg?style=flat
+[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
 
 # 更新日志
 ```
