@@ -19,8 +19,6 @@
 
 <a href="https://github.com/EvilGenius-dot/RustMinerSystem">English</a>｜<a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n">简体中文</a>
 
-<br>
-
 </div>
 
 # RustMinerSystem
