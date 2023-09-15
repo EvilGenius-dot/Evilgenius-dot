@@ -11,6 +11,7 @@
 <img src="./image/1.png" alt="Logo" width="670">
 
 <br>
+<br>
 
 [![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
 [![Downloads][downloads-badge]][releases]
