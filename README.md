@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div align="center">
+<div align="">
 
 # RustMinerSystem
 
@@ -60,7 +60,7 @@
 
 # 支持的算法
 
-对于支持的算法，相应的货币将随时热更新，客户端0将承担负担
+对于支持的算法，相应的货币将随时热更新
 
 
 | arithmetic      | Support     | Relevant currency |
