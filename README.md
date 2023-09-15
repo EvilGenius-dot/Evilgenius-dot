@@ -2,11 +2,15 @@
 
 <div align="center">
 
+<img src="./image/ktlogo.gif" alt="Logo" width="170">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F76322&center=true&vCenter=true&width=435&lines=RustMinerSystem)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%E5%9F%BA%E4%BA%8ERUST%E6%89%93%E9%80%A0%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%9A%84MinerProxy)](https://git.io/typing-svg)
 
-<img src="./image/ktlogo.gif" alt="Logo" width="170">
+<img src="./image/1.png" alt="Logo" width="670">
+
+<br>
 
 [![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
 [![Downloads][downloads-badge]][releases]
@@ -14,16 +18,11 @@
 
 <a href="https://github.com/EvilGenius-dot/RustMinerSystem">English</a>｜<a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n">简体中文</a>
 
-<img src="./image/1.png" alt="Logo" width="670">
-
 <br>
 
 </div>
 
 # RustMinerSystem
-
-![](https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/main/assets/github-contribution-grid-snake.svg)
-
 
 <table>
    <tr>
@@ -160,6 +159,7 @@ RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
 [stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
 
 # 更新日志
+![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 ```
 3.5.0
 再次重构抽水算法及算力统计图表逻辑, 现在不管任何比例都能抽到精准算力, 不再因为比例设置越大, 少抽的越多
