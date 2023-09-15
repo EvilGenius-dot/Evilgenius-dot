@@ -15,6 +15,10 @@
 [![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
 [![Downloads][downloads-badge]][releases]
 [![Stargazers][stars-shield]][stars-url]
+<a href="">
+   <img src="https://img.shields.io/badge/%E7%82%B9%E6%88%91%E5%85%8D%E8%B4%B9%E5%AE%9A%E5%88%B6-%F0%9F%94%A5-8A2BE2">
+</a>
+
 
 <a href="https://github.com/EvilGenius-dot/RustMinerSystem">English</a>｜<a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n">简体中文</a>
 
@@ -26,7 +30,7 @@
    <tr>
    <td>
 
-### 🏢 **Linux安装**
+### 👉 **Linux安装**
 
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
@@ -45,7 +49,7 @@
    <tr>
    <td>
 
-### 🏢 **Windows安装**
+### 👉 **Windows安装**
 
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
@@ -62,7 +66,7 @@
    <tr>
    <td>
   
-### 🏢 **支持的算法及币种**
+### 👉 **支持的算法及币种**
 
 <p>&emsp;&emsp;对于支持的算法，相应的货币将随时热更新</p>
 
@@ -113,7 +117,7 @@
    <tr>
    <td>
 
-### 🏢 **加入聊天组**
+### 👉 **加入聊天组**
 
 <p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
 
@@ -124,7 +128,7 @@
    <tr>
    <td>
 
-### 🏢 **特别感谢**
+### 👉 **特别感谢**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./image/icon-logo-blue.png" alt="Logo" width="100">
@@ -139,7 +143,7 @@
    <tr>
    <td>
 
-### 🏢 **服务协议**
+### 👉 **服务协议**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
 
@@ -148,7 +152,7 @@
    <tr>
    <td>
 
-### 🏢 **更新日志**
+### 👉 **更新日志**
 
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
@@ -451,7 +455,7 @@
    <tr>
    <td>
 
-### 🏢 **定制专属版本说明**
+### 👉 **定制专属版本说明**
 
    <p>&emsp;&emsp;1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
    <p>&emsp;&emsp;2. 请整理以下格式数据发给群主或管理员：</p>
@@ -515,7 +519,7 @@
    <tr>
    <td>
 
-### 🏢 **针对E9pro的一些优化措施**
+### 👉 **针对E9pro的一些优化措施**
 
    <p>&emsp;&emsp;矿机的后台配置里, 只保留一条地址配置信息, 删除2和3的配置</p>
 
@@ -524,7 +528,7 @@
    <tr>
    <td>
 
-### 🏢 **端口导入、导出**
+### 👉 **端口导入、导出**
 
    <p>&emsp;&emsp;三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:</p>
 
@@ -536,7 +540,7 @@
    <tr>
    <td>
 
-### 🏢 **Other issues**
+### 👉 **Other issues**
 
    <p>&emsp;&emsp;这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。</p>
 
