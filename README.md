@@ -68,51 +68,7 @@
    <tr>
    <td>
   
-## 🏢 22
-
-22
-
-   </td>
-   </tr>
-</table>
-
-# 安装 
-
-1. **Install**
-
-   选择适合您的操作系统
-
-   <details open>
-   <summary>Linux</summary>
-
-   > 运行以下shell指令以运行工具包
-   >
-   > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
-   > ```
-   >
-   > 成功运行后，您将看到以下菜单。
-   >
-
-   </details>
-
-   <details open>
-   <summary>Windows</summary>
-
-   > 请直接从此项目的Windows目录下载指定的版本：
-   >
-   > ```sh
-   > https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
-   > ```
-   >
-
-   </details>
-
-   Windows版本直接双击启动即可。
-
-   Linux运行脚本后，根据提示安装即可, 默认后台账号密码为 qzpm19kkx xloqslz913
-
-# 支持的算法
+## 🏢 支持的算法及币种
 
 对于支持的算法，相应的货币将随时热更新
 
@@ -155,6 +111,12 @@
 | EQUIHASH        | ✅          | ZEN、ZEC
 | LBRY            | ✅          | LBC
 | X11             | ✅          | DASH
+
+
+
+   </td>
+   </tr>
+</table>
 
 
 # 免费定制专属版本
