@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%E5%9F%BA%E4%BA%8ERUST%E6%89%93%E9%80%A0%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%9A%84MinerProxy)](https://git.io/typing-svg)
 
-<img src="./image/1.png" alt="Logo" width="670">
+<img src="./image/1.png" alt="Logo">
 
 <br>
 <br>
@@ -31,33 +31,25 @@
 
    <p>选择适合您的操作系统</p>
 
+   ## Linux
 
-   <details open>
-   <summary>Linux</summary>
+   运行以下shell指令以运行工具包
+   
+   ```sh
+    bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+   ```
+   
+   成功运行后，您将看到以下菜单, 根据提示安装即可。
+   
+   <img src="./image/install.gif">
 
-   > 运行以下shell指令以运行工具包
-   >
-   > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
-   > ```
-   >
-   > 成功运行后，您将看到以下菜单, 根据提示安装即可。
-   >
-   > <img src="./image/install.gif">
+   ## Windows
 
-   </details>
+   请直接从此项目的Windows目录下载指定的版本：
 
-   <details open>
-   <summary>Windows</summary>
-
-   > 请直接从此项目的Windows目录下载指定的版本：
-   >
-   > ```sh
-   > https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
-   > ```
-   >
-
-   </details>
+   ```sh
+   https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+   ```
 
    Windows版本直接双击启动即可。
 
