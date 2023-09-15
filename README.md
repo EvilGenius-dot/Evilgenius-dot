@@ -37,7 +37,7 @@
    
    <p>&emsp;&emsp;成功运行后，您将看到以下菜单, 根据提示安装即可。</p>
    
-   <img style="margin-left: 27px;" src="./image/install.gif">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./image/install.gif">
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
