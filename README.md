@@ -512,6 +512,36 @@
 
    </td>
    </tr>
+   <tr>
+   <td>
+
+### 🏢 **针对E9pro的一些优化措施**
+
+   <p>&emsp;&emsp;矿机的后台配置里, 只保留一条地址配置信息, 删除2和3的配置</p>
+
+   </td>
+   </tr>
+   <tr>
+   <td>
+
+### 🏢 **端口导入、导出**
+
+   <p>&emsp;&emsp;三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:</p>
+
+   <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
+
+   </td>
+   </tr>
+
+   <tr>
+   <td>
+
+### 🏢 **Other issues**
+
+   <p>&emsp;&emsp;这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。</p>
+
+   </tr>
+   </td>
 
 </table>
 
@@ -526,20 +556,3 @@
 [stars-shield]: https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg?style=flat
 [stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
 
-<span id="e9"></span>
-
-# 针对E9pro的一些优化措施
-
-- 矿机的后台配置里, 只保留一条地址配置信息, 删除2和3的配置
-
-<span id="diaoxian"></span>
-
-# 端口导入、导出
-
-三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:
-
-<a href="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a>
-
-# Other issues
-
-这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。
