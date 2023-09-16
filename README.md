@@ -59,8 +59,6 @@
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
-   &nbsp;
-
    </td>
    </tr>
    <tr>
@@ -77,8 +75,6 @@
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
-
-   <br>
 
    </td>
    </tr>   
@@ -130,8 +126,6 @@
   X11                 DASH
 ```
 
-   <br>
-
    </td>
    </tr>
    <tr>
@@ -144,8 +138,6 @@
 <p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
 
 <p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p>
-
-   <br>
 
    </td>
    </tr>
@@ -162,8 +154,6 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感谢以上矿池在一定范围内提供了技术支持😊</p>
 
-<br>
-
    </td>
    </tr>
    <tr>
@@ -172,8 +162,6 @@
 ### 👉 **服务协议**
 
    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。</p>
-
-   <br>
 
    </td>
    </tr>
@@ -480,9 +468,6 @@
    内部测试版本
 ```
 
-   <br>
-
-
    </td>
    </tr>
    <tr>
@@ -552,8 +537,6 @@
       如果不会自己制作安装链接，项目首页等，可联系群主或管理员进行免费托管服务
    ```
 
-   <br>
-
    </td>
    </tr>
    <tr>
@@ -562,8 +545,6 @@
 ### 👉 **针对E9pro的一些优化措施**
 
    <p>&emsp;&emsp;矿机的后台配置里, 只保留一条地址配置信息, 删除2和3的配置</p>
-
-   <br>
 
    </td>
    </tr>
@@ -576,8 +557,6 @@
 
    <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
 
-   <br>
-
    </td>
    </tr>
 
@@ -587,8 +566,6 @@
 ### 👉 **Other issues**
 
    <p>&emsp;&emsp;这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。</p>
-
-   <br>
 
    </tr>
    </td>
