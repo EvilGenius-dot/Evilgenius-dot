@@ -38,8 +38,6 @@
 </div>
 
 # RustMinerSystem
-
-<table>
   <tr>
     <td>
 
