@@ -76,6 +76,20 @@
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
+   <p>&emsp;&emsp;ARM版本请使用以下命令进行安装</p>
+   
+   &emsp;&emsp;ARM:
+
+   ```sh
+     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
+   ```
+
+   &emsp;&emsp;ARMV7:
+
+   ```sh
+     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
+   ```
+
    </td>
    </tr>   
    <tr>
@@ -193,7 +207,7 @@
    优化gtv66和e9pro全批次不同固件的机型，现在这两类机型都可以跑同一个端口并且解决掉了相关的无效以及相关的所有BUG
 
    解禁了DNX抽水限制, 但是目前不要抽水，因为官方以及矿池并未按照公布时间进行解除验证, 等后续矿池公告以后再开启抽水
-   
+
    3.7.1
    性能优化, 大幅提高硬件利用率,  降低内存以及cpu的占用
 
