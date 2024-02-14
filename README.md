@@ -26,4 +26,10 @@
             <li>API</li>
         </ul>
     </li>
+    <li>
+        About
+        <ul>
+            <li>Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p></li>
+        </ul>
+    </li>
 </ul>
