@@ -20,7 +20,7 @@
         </ul>
     </li>
     <li>
-        Rust distributed ore pool, build your own ore pool node
+        Rust distributed ore pool, build your own ore pool node (developing...)
         <ul>
             <li>RustPool</li>
             <li>API</li>
