@@ -15,14 +15,18 @@
         A local protocol conversion tool that effectively prevents malicious programs from interfering with computing power.
         <ul>
             <li>
-                <a href="https://github.com/EvilGenius-dot/RMS" target="_blank">RMS</a>
+                <a href="https://github.com/EvilGenius-dot/RMS" target="_blank">RMS2</a>
             </li>
         </ul>
     </li>
     <li>
         Rust distributed ore pool, build your own ore pool node (developing...)
         <ul>
-            <li>RustPool</li>
+            <li>
+                <a href="https://rustminersystem.gitbook.io/rustminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian" target="_blank">
+                    RustPool
+                </a>
+            </li>
             <li>API</li>
         </ul>
     </li>
