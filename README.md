@@ -27,7 +27,11 @@
                     RustPool
                 </a>
             </li>
-            <li>API</li>
+            <li>
+                <a href="https://app.gitbook.com/o/pfN2ar9xHCUwr1hvPOaW/s/vloF7G6sH3tpG6N1g75q/~/changes/31/zi-jian-kuang-chi-jie-dian/kuang-chi-jie-dian-yong-hu-duan-api/api-shi-yong-zhu-yi-shi-xiang" target="_blank">
+                    API
+                </a>
+            </li>
         </ul>
     </li>
     <li>
