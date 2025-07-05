@@ -37,7 +37,16 @@
     <li>
         About
         <ul>
-            <li>Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p></li>
+            <li>
+                <a href="https://t.me/rustkt" target="_blank">
+                    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
+                </a>
+            </li>
+            <li>
+                <a href="https://discord.gg/xpjRnv8wpX" target="_blank">
+                    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
+                </a>
+            </li>
         </ul>
     </li>
 </ul>
