@@ -27,7 +27,11 @@
                     RustPool
                 </a>
             </li>
-            <li>API</li>
+            <li>
+                <a href="https://rustminersystem.gitbook.io/rustminersystem/kuang-chi-jie-dian-yong-hu-duan-api/api-shi-yong-zhu-yi-shi-xiang-bi-du" target="_blank">
+                    API
+                </a>
+            </li>
         </ul>
     </li>
     <li>
