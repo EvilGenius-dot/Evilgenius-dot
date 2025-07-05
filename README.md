@@ -12,7 +12,7 @@
         </ul>
     </li>
     <li>
-        A local protocol conversion tool that effectively prevents malicious programs from interfering with computing power.
+        Local protocol conversion tool that can compress public network traffic by 1000%–2000%, limit any specified number of public connections, and effectively resist man-in-the-middle attacks.
         <ul>
             <li>
                 <a href="https://github.com/EvilGenius-dot/RMS" target="_blank">RMS3</a>
@@ -20,7 +20,7 @@
         </ul>
     </li>
     <li>
-        Rust distributed ore pool, build your own ore pool node (developing...)
+        Rust distributed ore pool, build your own ore pool node.
         <ul>
             <li>
                 <a href="https://rustminersystem.gitbook.io/rustminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian" target="_blank">
